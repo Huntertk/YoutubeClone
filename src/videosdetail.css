@@ -1,0 +1,10 @@
+.video-details-container{
+    display: flex;
+    width: 100%;
+    position: sticky;
+}
+
+.react-player{
+    height: 45vh !important;
+    width: 100% !important;
+}
